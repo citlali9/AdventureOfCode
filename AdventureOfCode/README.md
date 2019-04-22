@@ -13,12 +13,12 @@ but first plase make sure you have installed JDK on your computing befor.
 To know if you have installed Java please open you terminal window and type Java 
 you should able to see the tools for Java
 
-Once you run the proyect you will be able to see diferent option to run like  it shows below:
+Once you run the proyect you will be able to see diferent option to run like it shows below:
   1-. puzzle input
   2-. Test input
   
-The first option in the console is to run the puzzle obtained in the challenge. 
-The second option runs the puzzle the challenge used to show how the you program should work and the expected out put.
+The first option in the console is to run the puzzle obtained in the challenge.
+The second option runs the puzzle that the challenge used to show how the you program should work and the expected output.
 
 Expected result of run the code
 
