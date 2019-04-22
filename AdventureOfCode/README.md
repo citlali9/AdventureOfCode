@@ -34,7 +34,7 @@ Day 2:
   Puzzle : 
       # A = 4920
       # B = fgij 
-    **/** Test a
+    **/** Test 
       # A = 12
     Test b
        # B = fonbwmjquwtapeyzikghtvdxl
