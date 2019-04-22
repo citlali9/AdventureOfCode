@@ -26,7 +26,7 @@ Day 1:
     Puzzle : 
       # A = 439 
       # B =  124645
-    Test
+   **/** Test
       # A = 3
       # B = 2
 
@@ -34,7 +34,7 @@ Day 2:
   Puzzle : 
       # A = 4920
       # B = fgij 
-    Test a
+    **/** Test a
       # A = 12
     Test b
        # B = fonbwmjquwtapeyzikghtvdxl
@@ -43,7 +43,7 @@ Day 4:
  Puzzle : 
       # A = 12504
       # B = 139543
-    Test
+    **/** Test
       # A = 240
       # B = 45
        
