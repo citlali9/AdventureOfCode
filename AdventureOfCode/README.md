@@ -5,7 +5,9 @@ Solutions for days 1 , 2 and 4
 Make sure you are position on the directory correct where the adventureofCode.jar file is finding.
 
 To run the proyect You'll need to use the java command to run a .jar file:
-# java -jar adventofCode.jar
+# Command to run the proyect
+
+java -jar adventofCode.jar
 
 but first plase make sure you have installed JDK on your computing befor. 
 To know if you have installed Java please open you terminal window and type Java 
