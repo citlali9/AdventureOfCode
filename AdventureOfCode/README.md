@@ -17,7 +17,7 @@ Once you run the proyect you will be able to see diferent option to run like  it
   1-. puzzle input
   2-. Test input
   
-The first option run the puzzle obtained in the challenge 
+The first option in the console is to run the puzzle obtained in the challenge 
 The second option run the puzzle the challenge used to show how the you program should work and the expected out put.
 
 Expected result of run the code
