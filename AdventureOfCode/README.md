@@ -7,10 +7,14 @@ Make sure you are position on the directory correct where the adventureofCode.ja
 To run the proyect You'll need to use the java command to run a .jar file:
 # Command to run the proyect
 
-java -jar adventofCode.jar
+Located in the correct directory 
+00000:~user$ cd /User/NetBeansProjects/AdventureOfCode/src/adventofcode
 
-but first plase make sure you have installed JDK on your computing befor. 
-To know if you have installed Java please open you terminal window and type Java 
+Type the next command 
+00000:~user$ java -jar adventofCode.jar
+
+Plase make sure you have installed JDK on your computing befor. 
+To know if you have installed Java please open you terminal window and type Java, then
 you should able to see the tools for Java
 
 Once you run the proyect you will be able to see diferent option to run like it shows below:
